@@ -78,20 +78,6 @@
 
 <br>
 
-## 📊 Github Stats
-
-  <summary><b>💻 GitHub Profile Stats</b></summary>
-  <br/>
-  <p align="center">
-<img alt="Youssef Github Stats" src="#" height="192px"/>
-	  <br/>
-&nbsp;
-	<img src="#" alt="Youssef" height="190px"/>
-  <br/>
-	
-  </p>
-
-----
 
   <summary><b>⚡ Recent GitHub Activity</b></summary>
   <br/>
