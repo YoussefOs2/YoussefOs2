@@ -4,16 +4,19 @@
 <p align="center"> 
 	<img src="https://komarev.com/ghpvc/?username=merhanmostafa47&label=Profile%20views&color=0e75b6&style=flat" alt="Youssef Osama" /> 
 	<!--<img src="https://github.com/YoussefOs2?tab=repositories" alt="Youssef Osama" />-->
-	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="Merhan Mostafa" />
+	<img src="https://img.shields.io/github/followers/merhanmostafa47?label=Followers" alt="Youssef Osama" />
 	<img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2F/merhanmostafa47/1212%2Fhit-counter" alt="Youssef Osama" />
         <img src="https://wakatime.com/badge/user/ae4e74c8-3a6a-4de1-a890-24a13ae4568d.svg" alt="Youssef Osama" />
 	<a href="https://www.frontendmentor.io/profile/YoussefOs2"><img src="https://img.shields.io/badge/Front--end%20Mentor-Follow-blue" alt="Youssef Osama" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+</p> 
 <br>
 
 
-<a href="https://app.daily.dev/Youssef_Os2" align='right'><img align='right' src="#" width="270" alt="Youssef Osama Dev Card"/></a>
+<!--<a href="https://app.daily.dev/Youssef_Os2" align='right'><img align='right' src="#" width="270" alt="Youssef Osama Dev Card"/></a>-->
 
 ## :sassy_man:  About me:
 - :school: I am a `Senior` at Faculty of Computers & Informatics at Mansoura University
@@ -99,7 +102,9 @@
 </p>
 
 <br>
-
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yousefdergham&show_icons=true&locale=en&layout=compact&theme=radical" alt="most used languages" />
+<br>
+<br>
 <div align="center">
 
   <h3><b>😄 Can Connect With Me On</b></h3>
